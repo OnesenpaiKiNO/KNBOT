@@ -1,0 +1,36 @@
+{
+"NamaBot":"〔 KN-BOT 〕", 
+"NomorOwner":["6289602518223@s.whatsapp.net","6289602518223@s.whatsapp.net"], 
+"NomorBot":"6288276463941@s.whatsapp.net",
+"NamaOwner":"MR KiNO",
+"wm":")-----------〔 KN-BOT INDONESIA 〕-----------(",
+"prefix":"#",
+"banchat": false,
+"autoread": true,
+"autoketik": true,
+"autorecording": true,
+"zekais_api":"YOUR_APIKEY",
+"lolhuman":"YOUR_APIKEY",
+"apikeyss":"3e8da431284b45eda440db6cd290b8de",
+"DANGER":{
+      "seru":"[ ❗ ]",
+       "qu":"[ _query_ ]",
+
+        "link":"[ _Masukan linknya❗_ ]",
+         "username":"[ _Username_ ]",
+          "sets":"[ on/off ]",
+           "rc":"[ _reply/caption_ ]",
+            "rt":"[ _reply/tag target_ ]",
+             "rs":"[ _reply sticker_ ]",
+              "nm":"[ nama ]",
+               "tks":"[ _teks_ ]",
+                "vs":"[ _reply gambar/video_ ]",
+                 "gs":"[ _reply gambar/video_ ]",
+                  "ks":"[ _kodebahasa_ _teks_ ]"
+               },
+"donasi":{ 
+     "gopay&dana":"089602518223",
+      "danaimg":"https://telegra.ph/file/c97623d3c2f36e135d943.jpg",
+       "pulsa":"089602518223"
+         }
+}
